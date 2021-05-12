@@ -1,0 +1,40 @@
+html, bo{width: 100%;}
+.main{
+    width: 90%;
+    margin: auto;
+    height: 250px;
+    background-image: url(./image/td_dmx.PNG);
+    background-repeat: no-repeat;
+    background-size: 101%;
+    border-bottom: none;
+    border: 10px solid #2c72f4;
+    padding-top: 80px;
+}
+p{
+   /* margin-left: 30px;*/
+    width: 100px;
+    background-color: yellow;
+    border-radius: 5px;
+    text-align: center;
+}
+.Khoi{
+    width: 15%;
+    margin-left: 20px;
+    float: left;
+    size: 300px;
+}
+.HinhSP{
+    width: 90%;
+}
+.tenSP{
+    font-size: 18pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.Gia{
+    font-weight: bold;
+    color: red;
+    font-size: 20pt;
+}
+
+
